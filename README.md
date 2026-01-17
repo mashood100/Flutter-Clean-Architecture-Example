@@ -1,4 +1,4 @@
-# Innoscripta Task Timer  
+# AI First Clean Architecture   
 
 A Flutter application for efficient task management with advanced time-tracking capabilities. This app empowers users to create, manage, and track tasks across multiple projects with features designed for productivity and collaboration.  
 ## Dependencies
